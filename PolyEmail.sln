@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyEmail", "PolyEmail\PolyEmail.csproj", "{A1F02E3D-D997-4A20-B163-97623ACBB0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F02E3D-D997-4A20-B163-97623ACBB0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F02E3D-D997-4A20-B163-97623ACBB0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F02E3D-D997-4A20-B163-97623ACBB0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F02E3D-D997-4A20-B163-97623ACBB0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F401DF8-287F-4167-A16E-8B4A3F604A99}
+	EndGlobalSection
+EndGlobal
